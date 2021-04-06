@@ -7,3 +7,5 @@ merges they don't *actually* want to do. Below are a few cases you can try out i
 **Branch A & B**:
 In this case, GK will offer the ability to Merge A into B or B into A. This is usually determined by how you utilized drag and drop in GK (or whichever branch you have checked out and right click on).
 Either way you do it, you can do A --> B or B --> A. These branches both share a common ancestor and contain commits that the other branch does not.
+
+**Branch C & D**:
