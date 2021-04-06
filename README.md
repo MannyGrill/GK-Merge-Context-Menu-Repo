@@ -9,3 +9,5 @@ In this case, GK will offer the ability to Merge A into B or B into A. This is u
 Either way you do it, you can do A --> B or B --> A. These branches both share a common ancestor and contain commits that the other branch does not.
 
 **Branch C & D**:
+
+In this case
