@@ -1,4 +1,4 @@
-### GK Merge Context Menu Repo
+### GK Merge Context Menu Repo!
 
 Ultimately, our goal with GK is to be as helpful as possible to users without getting in the way. From time to time, we see users bring up, "hey, I want to merge X branch into Y but GK is only giving me the option
 to merge Y into X, what gives?". While in some rare cases this most likely is due to a bug, a majority of the time this is intentional behavior for GK. The purpose behind this, we want to help users prevent
